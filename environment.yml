@@ -1,0 +1,13 @@
+name: bipn162
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - scanpy
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - jupyter
